@@ -13,7 +13,7 @@ tags: [Incremental, Backup]
 - Synthetic Full Backup
 
 - Block Level Incremental Backup
-  - Delta Differential Backup
+- Delta Differential Backup
   - Meyers Diff Algorithm
 - Compression and Deduplication
   - Run Length Encoding
